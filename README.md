@@ -18,6 +18,7 @@ Import PalWorld UEVR profile
 ### Installation FreePIEVR（Can achieve the handle swing attack target）
 
 ### **Play with the game at the top of the screen！！！**
+### **Start VR before you start！！！**
 
 DownLoad [FreePIEVR](https://github.com/Ofisare/VRCompanion/releases)
 ![](https://truegear.s3.bitiful.net/PalWorld%2Fimg2.png)
